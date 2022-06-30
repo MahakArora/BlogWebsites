@@ -1,2 +1,10 @@
 # BlogWebsites
-This is a bloging website where you can add new blog daily and delete then as well
+This is a bloging website where you can add new blog daily and read them .
+
+# Tech Stack
+ <ul>
+  <li>React.js</li>
+  <li>Node.js</li>
+  <li>Express.js</li>
+  <li>MongoDB</li>
+  </ul>
